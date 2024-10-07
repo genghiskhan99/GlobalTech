@@ -21,7 +21,6 @@ This repository contains the data analysis for a global study on salary trends i
 ## Key Findings
 - Significant variations in tech salaries across different countries
 - Persistent gender pay gaps in most countries, with varying degrees
-- [Add 1-2 more key findings]
 
 ## How to Use
 1. Review the SQL queries in `data_extraction.sql` to understand the data gathering process
@@ -31,7 +30,6 @@ This repository contains the data analysis for a global study on salary trends i
 ## Notes
 - All data has been anonymized to protect individual privacy
 - Salary figures are in USD for consistent comparison
-- The analysis is based on data collected from [mention the time period, e.g., "January to December 2023"]
 
 ## Future Work
 - Incorporate more countries into the analysis
@@ -39,4 +37,4 @@ This repository contains the data analysis for a global study on salary trends i
 - Include additional factors such as education level and years of experience
 
 ## Contact
-For more information or questions about this analysis, please contact [Your Name] at [Your Email].
+For more information or questions about this analysis, please contact Gabriel at gassiakwa@gmail.com.

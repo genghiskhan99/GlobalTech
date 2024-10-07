@@ -31,10 +31,5 @@ This repository contains the data analysis for a global study on salary trends i
 - All data has been anonymized to protect individual privacy
 - Salary figures are in USD for consistent comparison
 
-## Future Work
-- Incorporate more countries into the analysis
-- Analyze trends over a longer time period
-- Include additional factors such as education level and years of experience
-
 ## Contact
 For more information or questions about this analysis, please contact Gabriel at gassiakwa@gmail.com.
